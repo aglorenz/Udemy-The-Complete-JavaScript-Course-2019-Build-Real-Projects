@@ -147,6 +147,20 @@ Mark and John are trying to compare their BMI (Body Mass Index), which is calcul
 GOOD LUCK 😀
 */
 
+var massMark = 78.5; // kg
+var heightMark = 1.7; // meters
+var bmiMark = massMark / heightMark * heightMark;
+
+var massJohn = 68; // kg
+var heightJohn = 1.9; // meters
+var bmiJohn = massJohn / heightJohn * heightJohn;
+
+var bmiMarkIsHigher = bmiMark > bmiJohn;
+console.log('Mark\'s BMI = ' + bmiMark)
+console.log('John\'s BMI = ', bmiJohn)
+
+
+console.log('Is Mark\'s BMI higher than John\s?: ' + bmiMarkIsHigher);
 
 
 
