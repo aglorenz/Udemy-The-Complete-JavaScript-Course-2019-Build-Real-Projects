@@ -3,5 +3,5 @@ This repo contains basic exercises and follow alongs in my journey to learning J
 
 ## 2-JS-Basics 
 Vars and data types, Variable mutation and Type Coercion, Basic Operators, Operator Precedence
-Coding Challenge 1
+* Coding Challenge 1
 
