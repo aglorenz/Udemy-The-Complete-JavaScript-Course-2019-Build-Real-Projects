@@ -10,5 +10,4 @@ Vars and Data Types, Variable Mutation and Type Coercion, Basic Operators, Opera
 If / Else Statements, Boolean Logic, Ternary Operator and Switch Statements, Truthy and Falsy Values
 * Coding Challenge 2 - Basketball score averages of three teams, three games each.  Declare team with highest average.
 
-**4/26-27/19**  
-Functions, Function Expressions,
+Functions, Function Expressions, Arrays
