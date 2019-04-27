@@ -281,7 +281,7 @@ switch (true) {
 */
 
 /*********************************
-* Truthy and Falsey values
+* Truthy and Falsy values
 */
 
 // falsy values: undefined, null, 0, '', NaN (not a number) will evaluate to false in a boolean conditional statement
